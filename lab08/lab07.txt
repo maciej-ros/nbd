@@ -1,0 +1,2 @@
+{"imie": "Maciej", "nazwisko": "Ros", "rok": 1, "ocena": 4.5}
+{"imie": "Maciej", "nazwisko": "Ros", "rok": 1, "ocena": 5}
