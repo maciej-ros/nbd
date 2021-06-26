@@ -1,0 +1,125 @@
+*   Trying 172.17.0.2:8098...
+* TCP_NODELAY set
+* Connected to 172.17.0.2 (172.17.0.2) port 8098 (#0)
+> PUT /buckets/s22776/keys/a HTTP/1.1
+> Host: 172.17.0.2:8098
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 47
+> 
+* upload completely sent off: 47 out of 47 bytes
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 204 No Content
+HTTP/1.1 204 No Content
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Date: Sat, 26 Jun 2021 09:24:23 GMT
+Date: Sat, 26 Jun 2021 09:24:23 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 0
+Content-Length: 0
+
+*   Trying 172.17.0.2:8098...
+* TCP_NODELAY set
+* Connected to 172.17.0.2 (172.17.0.2) port 8098 (#0)
+> PUT /buckets/s22776/keys/b HTTP/1.1
+> Host: 172.17.0.2:8098
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 47
+> 
+* upload completely sent off: 47 out of 47 bytes
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 204 No Content
+HTTP/1.1 204 No Content
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Date: Sat, 26 Jun 2021 09:25:35 GMT
+Date: Sat, 26 Jun 2021 09:25:35 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 0
+Content-Length: 0
+
+*   Trying 172.17.0.2:8098...
+* TCP_NODELAY set
+* Connected to 172.17.0.2 (172.17.0.2) port 8098 (#0)
+> PUT /buckets/s22776/keys/c HTTP/1.1
+> Host: 172.17.0.2:8098
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 51
+> 
+* upload completely sent off: 51 out of 51 bytes
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 204 No Content
+HTTP/1.1 204 No Content
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Date: Sat, 26 Jun 2021 09:25:55 GMT
+Date: Sat, 26 Jun 2021 09:25:55 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 0
+Content-Length: 0
+
+*   Trying 172.17.0.2:8098...
+* TCP_NODELAY set
+* Connected to 172.17.0.2 (172.17.0.2) port 8098 (#0)
+> PUT /buckets/s22776/keys/d HTTP/1.1
+> Host: 172.17.0.2:8098
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 54
+> 
+* upload completely sent off: 54 out of 54 bytes
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 204 No Content
+HTTP/1.1 204 No Content
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Date: Sat, 26 Jun 2021 09:26:18 GMT
+Date: Sat, 26 Jun 2021 09:26:18 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 0
+Content-Length: 0
+
+*   Trying 172.17.0.2:8098...
+* TCP_NODELAY set
+* Connected to 172.17.0.2 (172.17.0.2) port 8098 (#0)
+> PUT /buckets/s22776/keys/e HTTP/1.1
+> Host: 172.17.0.2:8098
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 46
+> 
+* upload completely sent off: 46 out of 46 bytes
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 204 No Content
+HTTP/1.1 204 No Content
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Date: Sat, 26 Jun 2021 09:26:49 GMT
+Date: Sat, 26 Jun 2021 09:26:49 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 0
+Content-Length: 0
+
